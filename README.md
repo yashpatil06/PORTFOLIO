@@ -2,7 +2,7 @@
 
 A modern, single-page portfolio website built with vanilla HTML, CSS, and JavaScript. Designed to showcase my professional experience, projects, skills, certifications, and achievements as a **Data Analyst** and **Python & SQL Developer**.
 
-> 🔗 **Live Site**: _[Add your deployed URL here]_
+> 🔗 **Live Site**: https://yashpatil06.github.io/PORTFOLIO/
 
 ---
 
